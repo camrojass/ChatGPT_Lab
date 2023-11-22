@@ -1,0 +1,1 @@
+Task decomposition is a technique used to break down complex tasks into smaller and simpler steps. It can be done through various methods such as using prompting techniques, task-specific instructions, or human inputs. The goal is to make the task more manageable and facilitate the interpretation of the model's thinking process.
