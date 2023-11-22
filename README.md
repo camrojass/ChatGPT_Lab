@@ -56,7 +56,9 @@ print(response)
 ```
 
 </details></p>
+### Arquitectura
 
+![image](https://github.com/camrojass/ChatGPT_Lab/assets/100396227/a2cf3e22-5812-43e4-a3ce-89aa4e6741f7)
 
 ## Parte 2
 ### Descripción
@@ -121,6 +123,10 @@ print(response)
 ```
 
 </details></p>
+### Arquitectura
+
+![image](https://github.com/camrojass/ChatGPT_Lab/assets/100396227/cece2483-691e-4e6e-879f-929ca1565d0f)
+
 
 ## Parte 3
 ### Descripción
@@ -185,6 +191,10 @@ loadText()
 ```
 
 </details></p>
+### Arquitectura
+
+![image](https://github.com/camrojass/ChatGPT_Lab/assets/100396227/1c1bcf62-76f1-4340-bb80-2bd7e0ab2e17)
+
 
 ### Evidencia
 ![image](https://github.com/camrojass/ChatGPT_Lab/assets/100396227/fd00d952-be94-46a9-a2cd-c8e0423c39c2)
