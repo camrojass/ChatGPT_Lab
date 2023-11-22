@@ -3,7 +3,11 @@ Ejercicios de conexión a ChatGPT vía API usando Python con las librerías Lang
 **URL GitHub:**  https://github.com/camrojass/ChatGPT_Lab.git
 
 ## Requerimientos
-A continuacion se listan las librerías usadas en Python
+Python versión 3.10 o superior
+* [Python 3.11](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
+IDE que soporte python
+* [Pycharm CE](https://www.jetbrains.com/es-es/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+A continuacion se enlistan las librerías usadas en Python usando ```pip install librery```
 * openai
 * tiktoken
 * langchain
