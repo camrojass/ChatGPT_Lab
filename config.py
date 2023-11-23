@@ -1,7 +1,7 @@
 #################### Variables ########################
 
-OPENAI_API_KEY = "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"
-PINECONE_API_KEY = "4df56ed3-8eea-4e46-adfc-e73f07b665b5"
+OPENAI_API_KEY = "OPENAI_API_KEY"
+PINECONE_API_KEY = "PINECONE_API_KEY"
 PINECONE_ENV = "gcp-starter"
 
 
